@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "bootstrapprog",
+			"path": "E:\\progarmming\\bootstrapprog"
+		},
+		{
+			"name": "day2",
+			"path": "..\\day2"
+		},
+		{
+			"name": "day3",
+			"path": "..\\day3"
+		},
+		{
+			"name": "day4",
+			"path": "..\\day4"
+		},
+		{
+			"path": "..\\day5"
+		},
+		{
+			"path": "..\\day6"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
